@@ -4,7 +4,7 @@ Price calculator for e-commerce - "HESAPLAMATÖR"
 
 Android apk link : https://bit.ly/3yvNvR0
 
-<img src="In App Screenshot.jpeg" alt="Screen Shot">
+<img src="In App Screenshot.jpeg" alt="Screen Shot" width="275" height="600">
 
 This Calculator helps people who wants to sell stuff online (Amazon, Ebay, Trendyol, Hepsiburada etc.)
 but this platforms charges commission for every sale you made.
